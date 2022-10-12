@@ -10,7 +10,7 @@
 
 - 🔭 I worked with my great team on really cool project named [Adoptame project](https://adoptame.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Java, Test Automation**
 
 - 📫 How to reach me **johnj42@gmail.com**
 
